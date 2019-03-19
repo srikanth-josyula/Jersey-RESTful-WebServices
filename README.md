@@ -10,3 +10,4 @@ Following are the jars used for the proper running of the code :
   5.jersey-json-1.17.1.jar
   6.jersey-server-1.17.1.jar
   7.jersey-servlet-1.17.jar
+  8.javax.annotation-api-1.2.jar
